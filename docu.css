@@ -1,0 +1,53 @@
+/* Estilos para o documento HTML */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20;
+    padding: 30;
+    body {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #a4a6c5;
+      }
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 10 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #b1f8f8;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style-type: disc;
+  }
+  
+  code {
+    background-color: #c7d5da;
+    padding: 2px 5px;
+  }
+  
+  /* Estilos específicos para a documentação */
+  .currentPlayer {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    margin-top: 40px;
+  }
+  
